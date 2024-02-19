@@ -5,9 +5,12 @@ I'm Asmah Fatimah, a passionate ***Front-End Developer*** and ***Freelancer*** f
 * 💬 ask me about anything, I am happy to help;
 
  ![languages an tool](https://usagif.com/wp-content/uploads/gif-funny-work-32.gif) 
-## Languages and Tools 
 
-<p align="left"> <img style="float: right;" src="https://usagif.com/wp-content/uploads/gif-funny-work-32.gif"> langua</p>
+|First Image|![languages an tool](https://usagif.com/wp-content/uploads/gif-funny-work-32.gif) |
+<p align="left"> <img style="float: right;" src="https://usagif.com/wp-content/uploads/gif-funny-work-32.gif"> 
+ ### langua
+ 
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmahfatimah&label=Profile%20views&color=0e75b6&style=flat" alt="asmahfatimah" /> </p>
