@@ -4,14 +4,16 @@ I'm Asmah Fatimah, a passionate ***Front-End Developer*** and ***Freelancer*** f
 * 📫 any freelance work? do reach,  [email](asmahfatima7@gmail.com) :)
 * 💬 ask me about anything, I am happy to help;
 
- #  <img src="https://usagif.com/wp-content/uploads/gif-funny-work-32.gif" width="20%"/> Tech Stack:
+ #  <img src="https://usagif.com/wp-content/uploads/gif-funny-work-32.gif" width="15%"/> Tech Stack:
+ 
 <div align="center">
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
+ &nbsp;
 
 
-# 🚀  Connect with me:
+# 🚀 Connect with me: 
  
 <div align="center">
 <a href="https://github.com/AsmahFatimah" target="_blank">
@@ -24,6 +26,7 @@ I'm Asmah Fatimah, a passionate ***Front-End Developer*** and ***Freelancer*** f
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+ &nbsp;
 
 # 📊 GitHub Stats:
 
